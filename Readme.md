@@ -1,4 +1,4 @@
-# Google Sheets API Automation
+# Google Docs API Automation
 
 This project demonstrates how to use the Google Docs API to automate reading and writing data in Google Docs Documents using Python.
 
