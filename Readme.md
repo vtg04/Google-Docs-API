@@ -38,7 +38,7 @@ Run the Python script read.py to read data from your Google Docs:
 python read.py
 ```
 
-### Create Google Docs
+### Create a new Document
 Run the script to create Docs:
 
 ```bash
