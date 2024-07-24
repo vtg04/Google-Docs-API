@@ -13,7 +13,7 @@ git clone https://github.com/your-username/Google-Docs-Api.git
 ### Navigate to the Project Directory
 
 ```bash
-cd google-docs-api-automation
+cd Google-Docs-Api
 ```
 
 ### Install Required Libraries
