@@ -7,13 +7,13 @@ This project demonstrates how to use the Google Docs API to automate reading and
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Google-Docs-Api.git
+git clone https://github.com/your-username/Google-Docs-API.git
 ```
 
 ### Navigate to the Project Directory
 
 ```bash
-cd Google-Docs-Api
+cd Google-Docs-API
 ```
 
 ### Install Required Libraries
